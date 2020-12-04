@@ -1,4 +1,4 @@
-## Webpack Simple starter template
+## Three.js Boiler template
 
 ```
 $ npm install
